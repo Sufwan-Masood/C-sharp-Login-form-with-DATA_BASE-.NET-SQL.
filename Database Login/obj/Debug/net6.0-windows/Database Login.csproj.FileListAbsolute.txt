@@ -1,0 +1,27 @@
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\Database Login.exe
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\Database Login.deps.json
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\Database Login.runtimeconfig.json
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\Database Login.dll
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\Database Login.pdb
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database_Login.Form1.resources
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.csproj.GenerateResource.cache
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.AssemblyInfoInputs.cache
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.AssemblyInfo.cs
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.csproj.CoreCompileInputs.cache
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.dll
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\refint\Database Login.dll
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.pdb
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.genruntimeconfig.cache
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\ref\Database Login.dll
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database_Login.Properties.Resources.resources
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\Database Login.dll.config
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GOLDEN\source\repos\Database Login\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.csproj.AssemblyReference.cache
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database Login.csproj.CopyComplete
+C:\Users\GOLDEN\source\repos\Database Login\obj\Debug\net6.0-windows\Database_Login.inserDATABASE.resources
