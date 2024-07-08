@@ -1,0 +1,10 @@
+# Specify that all .cs files are C#
+*.cs linguist-language=C#
+
+# Specify that all .sql files are SQL
+*.sql linguist-language=SQL
+
+# Exclude certain directories (e.g., build output, dependencies) from language statistics
+bin/* linguist-generated
+obj/* linguist-generated
+packages/* linguist-vendored
